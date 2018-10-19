@@ -3,6 +3,8 @@ Lib for reading matrix keyboars in Micropython.
 
 Developed and tested using de LoBo Micropython for ESP32, but it should work in the standard version both in ESP32 and ESP8266
 
+![](https://images-na.ssl-images-amazon.com/images/I/61mc5GqXFuL._SY355_.jpg)
+
 # Usage
 You can just import and instantiate the class with a list of pins for the columns and rows
 ```python
